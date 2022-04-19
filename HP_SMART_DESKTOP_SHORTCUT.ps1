@@ -1,4 +1,6 @@
-﻿$ShortcutTargetPath = "shell:AppsFolder\AD2F1837.HPPrinterControl_v10z8vjag6ke6!AD2F1837.HPPrinterControl"
+    # Get-StartApps
+    # AppID is to be added after "AppsFolder\"
+$ShortcutTargetPath = "shell:AppsFolder\AD2F1837.HPPrinterControl_v10z8vjag6ke6!AD2F1837.HPPrinterControl"
 $ShortcutDisplayName = "HP Smart"
 $PinToStart=$true
 $IconFile=$null
